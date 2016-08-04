@@ -1,0 +1,42 @@
+_repo: One-of-Ours_2369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Catherová, Willa
+    - Cather, Wilella
+    - Catherova, Willa
+    - Cather, Willa Sibert
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
+description: "One of Ours is a novel by Willa Cather that won the 1923 Pulitzer Prize\
+  \ for the Novel. It tells the story of the life of Claude Wheeler, a Nebraska native\
+  \ around the turn of the 20th century. The son of a successful farmer and an intensely\
+  \ pious mother, he is guaranteed a comfortable livelihood. Nevertheless, Wheeler\
+  \ views himself as a victim of his father's success and his own inexplicable malaise.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2369'
+  wikidata: Q7093535
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Nebraska -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Soldiers -- Fiction'
+- GITenberg
+title: One of Ours
+url: http://www.gutenberg.org/ebooks/2369
+wikipedia:
+- https://en.wikipedia.org/wiki/One_of_Ours
